@@ -12,4 +12,4 @@ Mitakus analytics is a German startup based in Munich that helps chefs and cante
 *  Implemented dashboards that track key business metrics and provide actionable insights.
 <br>
 
-**Keywords:** Python | Time series fo
+**Keywords:** Python | Time series forecasting | Regression analysis | XGBoost | Plotly | Flask
